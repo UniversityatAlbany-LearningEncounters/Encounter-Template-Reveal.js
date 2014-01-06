@@ -1,7 +1,7 @@
 Encounter Template
 ==================
 
-Enhanced template to create learning encounters with Reveal.js. Template includes learning encounter objective, process, and deliverable slides, with vertical scrolling code. 
+Enhanced template to create learning encounters with Reveal.js. Template includes learning encounter objective, process, and deliverable slides. 
 
 REPLACE ABOVE TITLE AND TEXT WITH INFORMATION SPECIFIC TO YOUR LEARNING ENCOUNTER. 
 
